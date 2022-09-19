@@ -1,0 +1,22 @@
+body{
+    font-size: 3rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.numarator{
+    color: blue;
+    background-color: lime;
+    text-align: center;
+}
+.butonlar{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 200px;
+    height: 200px;
+
+}
